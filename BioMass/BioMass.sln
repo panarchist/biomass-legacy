@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Source", "BioMass\Source.csproj", "{FD8B5E75-7FB7-491A-92AD-679F027C93CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8B5E75-7FB7-491A-92AD-679F027C93CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B5E75-7FB7-491A-92AD-679F027C93CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B5E75-7FB7-491A-92AD-679F027C93CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B5E75-7FB7-491A-92AD-679F027C93CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BioMass\Source.csproj
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.inheritsSet = Mono
+		$0.ChangeLogPolicy = $2
+		$2.UpdateMode = None
+		$2.MessageStyle = $3
+		$3.LineAlign = 0
+		$2.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
